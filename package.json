@@ -1,0 +1,22 @@
+{
+  "name": "sum",
+  "version": "1.0.1",
+  "description": "sum only intager number in array",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omadbeknasirullayev/sum-npm-package.git"
+  },
+  "keywords": [
+    "sum"
+  ],
+  "author": "omadbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omadbeknasirullayev/sum-npm-package/issues"
+  },
+  "homepage": "https://github.com/omadbeknasirullayev/sum-npm-package#readme"
+}
