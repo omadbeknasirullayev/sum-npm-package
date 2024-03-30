@@ -1,5 +1,5 @@
 {
-  "name": "sum",
+  "name": "dynamic_sum",
   "version": "1.0.2",
   "description": "sum only intager number in array",
   "main": "index.js",
